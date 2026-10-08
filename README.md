@@ -2,7 +2,7 @@
 
 ![Handwritten](https://img.shields.io/badge/provenance-handwritten-brightgreen)
 
-*2022: developed with original git history*
+*2022: original git history*
 
 A full rewrite of [Curbs](https://github.com/nieczuje/curbs-gdevelop), the street-ball game originally built in GDevelop, done from scratch in Godot. Built as a learning project to compare the two engines (this Godot build was never released).
 
