@@ -1,4 +1,9 @@
+<div align="center">
+<img src="readme-images/logo.png" width="150">
+
 # Curbs (Krawężniki) — Godot rewrite
+
+</div>
 
 ![Handwritten](https://img.shields.io/badge/provenance-handwritten-brightgreen)
 
